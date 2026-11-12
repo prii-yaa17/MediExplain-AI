@@ -71,6 +71,66 @@ Disclaimer
 
 MediExplain AI is developed for academic and educational purposes. It is intended as a decision-support prototype and should not be used as a replacement for professional medical advice, diagnosis, or treatment.
 
+Results and Output:
+Login page
+
+<img width="1600" height="762" alt="image" src="https://github.com/user-attachments/assets/a3f453f1-8da5-4b7c-930f-5dce2a2973f1" />
+
+
+Main dashboard page
+
+<img width="1600" height="756" alt="image" src="https://github.com/user-attachments/assets/8fb2529d-6dfc-4aa5-8e50-de6592cd45dc" />
+
+
+Patient input page:
+
+<img width="1600" height="773" alt="image" src="https://github.com/user-attachments/assets/025e49df-ccde-40f5-8937-94241ee14701" />
+
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/55e00f3c-0b65-4aac-9489-85a9a4e49438" />
+
+
+Disease prediction page:
+
+<img width="1600" height="742" alt="image" src="https://github.com/user-attachments/assets/a35ec25c-704f-463a-9b1c-94ac68ae11f8" />
+
+
+Explainability page:
+
+<img width="1600" height="760" alt="image" src="https://github.com/user-attachments/assets/929d0e9b-3f18-4a66-91b9-0465197294ad" />
+
+<img width="1600" height="749" alt="image" src="https://github.com/user-attachments/assets/30dde7ea-7f2b-402f-a511-60aae7948223" />
+
+
+Recommendations page:
+
+<img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/609a1cfe-b11e-474a-bd7e-b162a5f865c0" />
+
+
+What-if analysis page:
+
+<img width="1600" height="772" alt="image" src="https://github.com/user-attachments/assets/6ce91592-cd7c-44c0-aa17-42c02857dd84" />
+
+<img width="1600" height="525" alt="image" src="https://github.com/user-attachments/assets/26a47ca4-279b-4422-ac7f-bdb6b64be691" />
+
+
+Patient history page:
+
+<img width="1600" height="746" alt="image" src="https://github.com/user-attachments/assets/a7a1eb16-908c-48ce-b3e7-9d0765287ce6" />
+
+
+Report page:
+
+<img width="1600" height="753" alt="image" src="https://github.com/user-attachments/assets/a2696a4c-11b1-4dd6-a196-cbb07256c1f4" />
+
+
+AI assistant page:
+
+<img width="1600" height="753" alt="image" src="https://github.com/user-attachments/assets/ede165d8-68e6-46b2-83c0-7db70f541417" />
+
+
+
+
+
 Author
 
 Priyadarshini K C
